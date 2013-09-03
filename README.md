@@ -31,10 +31,10 @@ Contacto
 Si, por cualquier motivo, desean contactarme, dejo a su disposición mi correo electrónico.
 
 Nombre del Autor: Augusto Jair (Córdoba, Argentina)
-.. _E-mail: augustojair_96@hotmail.com
+E-mail: augustojair_96@hotmail.com
 
 Licencia
 --------
 Licenciado bajo Creative Commons Atribución 3.0 Unported (CC BY 3.0)
 
-.. _Licencia:http://creativecommons.org/licenses/by/3.0/deed.es
+Leer Licencia: http://creativecommons.org/licenses/by/3.0/deed.es
